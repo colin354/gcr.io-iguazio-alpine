@@ -1,1 +1,1 @@
-FROM gcr.io/iguazio/alpine:3.17
+FROM gcr.io/iguazio/alpine:3.15
